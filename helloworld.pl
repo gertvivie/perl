@@ -1,1 +1,0 @@
-print "Hello world in Perl\n";
